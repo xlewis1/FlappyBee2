@@ -24,4 +24,4 @@
 [38;5;244m  22 | [0m## 📄 License
 [38;5;244m  23 | [0mThis project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 [2m--------------------------------------------------[0m
-[1mScan Finished: [32m316.208µs[0m
+[1mScan Finished: [32m268.875µs[0m
