@@ -15,7 +15,7 @@ Experience native C++ performance directly in your browser:
 
 ## 🛠️ Features
 * **Native C++ Engine:** Powered by the custom **Pygame++** game framework library built over raw SDL2 subsystems.
-* **WebAssembly Deployment:** Compiled down to machine bytecode using Emscripten for near-native browser speeds.
+* **WebAssembly Compiler:** Packaged and deployed via the custom **Pygame++ WASM Wrapper (PygamePP)**, leveraging Emscripten under the hood for near-native browser speeds.
 * **Asset Loading with COI:** Utilizes Cross-Origin Isolation via service workers to manage secure memory allocation smoothly.
 * **Showcase Logic:** Open-source `.cpp` files are included to demonstrate the gameplay loop, entity handling, and menu states.
 
