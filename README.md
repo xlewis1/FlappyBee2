@@ -9,7 +9,7 @@ Experience native C++ performance directly in your browser:
 *Note: Due to the high-quality assets and engine multi-threading compiled into the WASM bundle, it may take a moment to compile and load on the first launch!*
 
 ## 🕹️ How to Play
-* **Choose Your Character:** Select your playable character from the roster, including **Bumble Bee**, **Razor Wasp**, or **Jag**!
+* **Choose Your Character:** Select your playable character from the roster: **Bumble Bee** or **Razor Wasp**!
 * **The Mission:** Navigate through the environment, collect as much **honey** as you can to boost your score, and survive!
 * **Avoid Obstacles:** Watch out! You must dodge **small, large, and dynamically growing flower obstacles** that block your path.
 
